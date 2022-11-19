@@ -1,4 +1,5 @@
-bem-methodology
+#bem-methodology
+
 why bem?
 BEM (Block, Element, Modifier) Methodology helps to solve specificity issue with equal specificity
 It is a methodology helps to organize large CSS codes.
