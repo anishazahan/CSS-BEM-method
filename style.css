@@ -17,7 +17,19 @@ div{
 }
 
 /* ...........Card design................ */
-
+.card{
+    background: antiquewhite;
+}
+.card__tittle{
+   color: maroon;
+}
 
 
 /* ...........feedback code ................ */
+
+.feedback{
+    background: gainsboro;
+}
+.feedback__tittle{
+   color: olivedrab;
+}
